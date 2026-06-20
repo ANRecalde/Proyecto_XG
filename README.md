@@ -43,7 +43,7 @@ Visualización interactiva de:
 ```text
 Proyecto_XG/
 │
-├── app.py
+├── axgLab.py
 ├── datos/
 ├── modelos/
 ├── assets/
