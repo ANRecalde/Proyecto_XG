@@ -6,3 +6,4 @@ streamlit-image-coordinates
 numpy
 matplotlib
 scikit-learn
+plotly
